@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="animacion.css">
 </head>
 
-<div class="CajaInicio animated rubberBand">
+<div class="CajaInicio animated shake">
 <form action="destino.php" method="post" id="FormIngreso">
 <label> nombre </label>
 <input type = "text" name = "nombre">
