@@ -7,7 +7,7 @@ if(ISSET($Get['nombre']))
 else
 { ?>
 
-<Form>
+<form action="destino.php">
 <label> nombre </label>
 <input type = "text" name = "nombre">
 <input type="text" name = "numero">
