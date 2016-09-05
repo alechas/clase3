@@ -9,7 +9,7 @@
 <input type = "text" name = "nombre">
 <input type="text" name = "numero">
 
-<input type="submit">
+<input type="submit" class="MibotonUTNMenuInicio">
 </form>
 
 </div>
