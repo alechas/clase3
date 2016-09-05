@@ -1,6 +1,6 @@
 <?php
 
-if(ISSET($Get['nombre']))
+if(ISSET($_get['nombre']))
 {
 	echo $_get['nombre'];
 }
