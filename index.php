@@ -1,11 +1,3 @@
-<?php
-
-if(ISSET($_get['nombre']))
-{
-	echo $_get['nombre'];
-}
-else
-{ ?>
 
 <form action="destino.php" method="post">
 <label> nombre </label>
@@ -15,7 +7,3 @@ else
 <input type="submit">
 </form>
 
-<?php
-}
-
-?>
