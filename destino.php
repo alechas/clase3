@@ -7,5 +7,5 @@ else
 { 
 
 echo("Nueva `pagina");
-
+}
 ?>
